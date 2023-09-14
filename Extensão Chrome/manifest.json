@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "Hello Word",
+    "description": "Estensão Hello Word",
+    "author": "Marlon Augusto",
+    "chrome_action": {
+        "default_title": "Hello Word",
+        "default_popup": "index.html"
+    }
+
+
+}
